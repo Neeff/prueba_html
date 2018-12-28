@@ -2,4 +2,4 @@
 ---
 permalink: /index.html
 ---
-[a link](https://neeff.github.io/prueba_html/.)
+[Click a qui para ver la Pagina!](https://neeff.github.io/prueba_html/.)
