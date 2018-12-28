@@ -1,6 +1,4 @@
 .jumbotron{
-  margin: 0px;
-  height: 200px;
 }
 .col-style{
   background-color: #AC6C82;
@@ -13,11 +11,12 @@
 
   background-color: #DA727E;
 }
-.img-jumbotron{
-  background-color: black;
-  height:  100px;
 
+.img-nos{
+  width: 500px;
+  height: auto;
 }
+
 
 
 .margin{
