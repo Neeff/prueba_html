@@ -1,15 +1,21 @@
-.jumbotron{
+.fondo{
+  background-color: #F1F0E2;
 }
+
 .col-style{
   background-color: #AC6C82;
 }
 
 .jumbotron-style{
-  background-color: #FFBC67;
+  background-color: #0BC7B1;
 }
 .style-container{
 
   background-color: #DA727E;
+}
+
+.jumbotron-bajada{
+  background-color: #D9BB74;
 }
 
 .img-nos{
